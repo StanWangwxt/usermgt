@@ -2,7 +2,6 @@ import com.bhfae.usermgt.dao.UserMapper;
 import com.bhfae.usermgt.pojo.User;
 import com.bhfae.usermgt.service.IUserService;
 import com.bhfae.usermgt.service.impl.UserServiceImpl;
-import org.easymock.EasyMock;
 import org.junit.Before;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
